@@ -1,0 +1,1258 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ca" = (
+/obj/structure/cable,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"ch" = (
+/obj/effect/spawner/structure/window/shuttle,
+/turf/open/floor/plating,
+/area/shuttle/slime/xenobio)
+"dV" = (
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"ea" = (
+/obj/item/soap,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"eX" = (
+/obj/machinery/computer/camera_advanced/xenobio{
+	dir = 8;
+	networks = list("slimeship")
+	},
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"fq" = (
+/obj/structure/table/glass,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"gA" = (
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/machinery/camera/autoname{
+	dir = 4;
+	network = list("slimeship")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"gI" = (
+/obj/machinery/door/airlock/shuttle,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"gM" = (
+/obj/machinery/light/small,
+/turf/open/floor/engine,
+/area/shuttle/slime/xenobio)
+"hh" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"ik" = (
+/obj/machinery/camera/autoname{
+	dir = 4;
+	network = list("slimeship")
+	},
+/turf/template_noop,
+/area/space)
+"is" = (
+/obj/structure/shuttle/engine/propulsion/right{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/shuttle/slime/engine)
+"kl" = (
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"kt" = (
+/obj/machinery/smartfridge/extract,
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"kD" = (
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/structure/cable,
+/obj/machinery/camera/autoname{
+	dir = 8;
+	network = list("slimeship")
+	},
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"lx" = (
+/obj/machinery/atmospherics/pipe/manifold{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"lI" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/shuttle/slime/bridge)
+"mR" = (
+/obj/effect/mob_spawn/human/oldsci,
+/obj/item/toy/plush/slimeplushie,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/item/crowbar,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"ny" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"nO" = (
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 10
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"oa" = (
+/obj/structure/table/reinforced,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"oE" = (
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"oR" = (
+/obj/structure/cable,
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/siphon/on{
+	dir = 1;
+	external_pressure_bound = 120;
+	name = "server vent"
+	},
+/turf/open/floor/circuit,
+/area/shuttle/slime/xenobio)
+"oS" = (
+/obj/machinery/processor/slime,
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"rn" = (
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"sl" = (
+/obj/machinery/camera/autoname{
+	dir = 4;
+	network = list("slimeship")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"sz" = (
+/obj/structure/cable,
+/obj/machinery/power/apc/unlocked{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"sN" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_y = 30
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"tq" = (
+/obj/machinery/power/smes,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"tF" = (
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/shuttle/slime/xenobio)
+"uu" = (
+/obj/machinery/computer/camera_advanced/xenobio{
+	dir = 4;
+	networks = list("slimeship")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"vq" = (
+/obj/effect/turf_decal/tile/green,
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/machinery/light,
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"vD" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"vG" = (
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green,
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"wM" = (
+/obj/structure/cable,
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/obj/machinery/power/apc/unlocked{
+	dir = 8;
+	req_access = list("")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"xK" = (
+/obj/machinery/door/airlock/engineering,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"yE" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"yF" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/shuttle/slime/engine)
+"zN" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/shuttle/slime/xenobio)
+"AA" = (
+/obj/structure/cable,
+/obj/item/stock_parts/cell/high/slime/hypercharged,
+/obj/item/stock_parts/cell/high/slime/hypercharged,
+/obj/item/stock_parts/cell/high/slime/hypercharged,
+/obj/item/stock_parts/cell/high/slime/hypercharged,
+/obj/machinery/power/apc/unlocked{
+	dir = 8;
+	req_access = list("")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"Bt" = (
+/obj/item/slime_extract/grey,
+/obj/item/slime_extract/grey,
+/obj/item/slime_extract/grey,
+/obj/item/slime_extract/grey,
+/obj/structure/table/glass,
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"BI" = (
+/obj/effect/turf_decal/tile/green,
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"Cj" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = -30
+	},
+/obj/machinery/camera/autoname{
+	dir = 4;
+	network = list("slimeship")
+	},
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Co" = (
+/obj/machinery/atmospherics/components/unary/thermomachine/freezer/on/coldroom{
+	CanAtmosPass = 293.15;
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"DP" = (
+/turf/open/floor/engine,
+/area/shuttle/slime/xenobio)
+"Ew" = (
+/obj/machinery/camera/autoname{
+	dir = 8;
+	network = list("slimeship")
+	},
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"EP" = (
+/obj/effect/spawner/structure/window/shuttle,
+/turf/open/floor/plating,
+/area/shuttle/slime/bridge)
+"Fb" = (
+/obj/effect/turf_decal/tile/green,
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"Fh" = (
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/slime/engine)
+"FM" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Gi" = (
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/slime/xenobio)
+"GS" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = 30
+	},
+/obj/machinery/camera/autoname{
+	dir = 8;
+	network = list("slimeship")
+	},
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Hq" = (
+/obj/structure/shuttle/engine/propulsion/left{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/shuttle/slime/engine)
+"Hs" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"Hy" = (
+/obj/structure/reagent_dispensers/watertank/high,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"HB" = (
+/obj/machinery/door/airlock/external,
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/shuttle/slime/xenobio)
+"HC" = (
+/obj/machinery/door/airlock/shuttle,
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"Id" = (
+/turf/template_noop,
+/area/space)
+"IC" = (
+/obj/machinery/door/airlock/external,
+/obj/docking_port/mobile{
+	callTime = 250;
+	can_move_docking_ports = 1;
+	dir = 2;
+	dwidth = 11;
+	height = 17;
+	id = "slimeship";
+	launch_status = 0;
+	movement_force = list("KNOCKDOWN" = 0, "THROW" = 0);
+	name = "Slime Vault";
+	port_direction = 8;
+	preferred_direction = 4;
+	width = 33
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/shuttle/slime/xenobio)
+"JM" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"KA" = (
+/obj/structure/cable,
+/obj/machinery/camera/autoname{
+	dir = 4;
+	network = list("slimeship")
+	},
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/machinery/power/apc/unlocked{
+	dir = 8;
+	req_access = list("")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"KC" = (
+/obj/effect/turf_decal/tile/green,
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"KK" = (
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"KO" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"Mj" = (
+/obj/machinery/computer/camera_advanced/shuttle_docker/russ/slimeship{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"Mn" = (
+/obj/machinery/computer/monitor/secret{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"ME" = (
+/obj/machinery/computer/camera_advanced/xenobio{
+	dir = 4;
+	networks = list("slimeship")
+	},
+/obj/machinery/atmospherics/pipe/simple{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Ng" = (
+/turf/open/floor/plating,
+/area/shuttle/slime/xenobio)
+"Ni" = (
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Np" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_y = -30
+	},
+/obj/machinery/light,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"NB" = (
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"Of" = (
+/obj/effect/turf_decal/bot_white,
+/obj/structure/curtain,
+/obj/machinery/shower{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"Ot" = (
+/obj/effect/spawner/structure/window/shuttle,
+/turf/open/floor/plating,
+/area/shuttle/slime/crew)
+"Oz" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/engine,
+/area/shuttle/slime/xenobio)
+"Qg" = (
+/obj/machinery/computer/camera_advanced/xenobio{
+	dir = 8;
+	networks = list("slimeship")
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Qj" = (
+/obj/machinery/computer/shuttle/russ/slimeship{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"Qp" = (
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"QC" = (
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"QU" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/shuttle/slime/crew)
+"RZ" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Tg" = (
+/obj/machinery/camera/autoname{
+	dir = 8;
+	network = list("slimeship")
+	},
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"TE" = (
+/obj/machinery/door/airlock/external,
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"Uy" = (
+/obj/structure/cable,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on{
+	dir = 1;
+	external_pressure_bound = 140;
+	name = "server vent";
+	pressure_checks = 0
+	},
+/turf/open/floor/circuit,
+/area/shuttle/slime/xenobio)
+"UH" = (
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"US" = (
+/obj/structure/shuttle/engine/heater{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/shuttle/slime/engine)
+"UW" = (
+/obj/machinery/door/airlock/shuttle,
+/obj/structure/cable,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Vu" = (
+/obj/structure/cable,
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+"Wp" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"Ww" = (
+/obj/structure/table/glass,
+/obj/structure/cable,
+/obj/item/reagent_containers/dropper,
+/obj/item/reagent_containers/dropper,
+/obj/item/reagent_containers/glass/beaker/bluespace,
+/obj/item/reagent_containers/glass/beaker/bluespace,
+/obj/item/reagent_containers/glass/bottle/plasma,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/xenobio)
+"WN" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/engine,
+/area/shuttle/slime/xenobio)
+"Xt" = (
+/obj/machinery/power/port_gen/pacman,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/slime/engine)
+"Yc" = (
+/obj/machinery/door/airlock/external,
+/turf/open/floor/plating,
+/area/shuttle/slime/xenobio)
+"Zm" = (
+/obj/machinery/door/airlock/shuttle/glass,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/crew)
+"ZW" = (
+/obj/structure/table/reinforced,
+/obj/machinery/light,
+/turf/open/floor/mineral/titanium/white,
+/area/shuttle/slime/bridge)
+
+(1,1,1) = {"
+Id
+Id
+Id
+Id
+Id
+Fh
+Hq
+is
+Fh
+Id
+Fh
+Hq
+is
+Fh
+Id
+Id
+Id
+Id
+Id
+"}
+(2,1,1) = {"
+Id
+Id
+Fh
+Hq
+is
+yF
+US
+US
+yF
+TE
+yF
+US
+US
+yF
+Hq
+is
+Fh
+Id
+Id
+"}
+(3,1,1) = {"
+Id
+Id
+yF
+US
+US
+Fh
+tq
+tq
+Qp
+Qp
+rn
+rn
+rn
+Fh
+US
+US
+yF
+Id
+Id
+"}
+(4,1,1) = {"
+Id
+Id
+yF
+Xt
+Qp
+ca
+kD
+oE
+rn
+Qp
+sz
+rn
+Tg
+vD
+rn
+rn
+yF
+Id
+Id
+"}
+(5,1,1) = {"
+Id
+Id
+Fh
+yF
+yF
+yF
+yF
+yF
+yF
+xK
+yF
+yF
+yF
+yF
+yF
+yF
+Fh
+Id
+Id
+"}
+(6,1,1) = {"
+Id
+Id
+Id
+QU
+mR
+QU
+mR
+QU
+kl
+UH
+AA
+Ot
+KK
+gA
+Fb
+QU
+Id
+Id
+Id
+"}
+(7,1,1) = {"
+Id
+Id
+Id
+QU
+gI
+QU
+gI
+QU
+kl
+UH
+kl
+Zm
+NB
+kl
+vq
+QU
+Id
+Id
+Id
+"}
+(8,1,1) = {"
+Id
+Id
+Id
+QU
+Hs
+sl
+kl
+kl
+kl
+UH
+kl
+Ot
+vG
+KC
+BI
+QU
+Id
+Id
+Id
+"}
+(9,1,1) = {"
+Id
+Id
+Id
+QU
+gI
+QU
+gI
+QU
+sN
+UH
+Np
+QU
+gI
+QU
+QU
+QU
+Id
+Id
+Id
+"}
+(10,1,1) = {"
+Id
+Id
+Id
+QU
+mR
+QU
+mR
+QU
+Co
+UH
+Hy
+QU
+hh
+ea
+Of
+QU
+Id
+Id
+Id
+"}
+(11,1,1) = {"
+Id
+Gi
+zN
+zN
+zN
+zN
+zN
+zN
+tF
+UW
+zN
+zN
+zN
+zN
+zN
+zN
+zN
+Gi
+Id
+"}
+(12,1,1) = {"
+Id
+zN
+Oz
+DP
+ch
+DP
+DP
+ch
+Cj
+Ni
+KA
+ch
+DP
+DP
+ch
+DP
+gM
+zN
+Id
+"}
+(13,1,1) = {"
+Id
+zN
+DP
+DP
+ch
+DP
+DP
+ch
+dV
+Ni
+QC
+ch
+DP
+DP
+ch
+DP
+DP
+zN
+Id
+"}
+(14,1,1) = {"
+Gi
+zN
+ch
+zN
+zN
+ch
+zN
+Gi
+lx
+oR
+QC
+Gi
+zN
+ch
+zN
+zN
+ch
+zN
+Gi
+"}
+(15,1,1) = {"
+zN
+Oz
+DP
+ch
+DP
+DP
+ch
+QC
+lx
+Uy
+QC
+QC
+ch
+DP
+DP
+ch
+DP
+gM
+zN
+"}
+(16,1,1) = {"
+zN
+DP
+DP
+ch
+DP
+DP
+ch
+QC
+ME
+oS
+uu
+QC
+ch
+DP
+DP
+ch
+DP
+DP
+zN
+"}
+(17,1,1) = {"
+Gi
+zN
+zN
+zN
+ch
+ch
+Gi
+QC
+FM
+Ww
+RZ
+QC
+Gi
+ch
+ch
+zN
+zN
+zN
+Gi
+"}
+(18,1,1) = {"
+IC
+Ng
+Yc
+Wp
+QC
+QC
+QC
+QC
+Bt
+kt
+fq
+QC
+QC
+QC
+QC
+Wp
+Yc
+Ng
+HB
+"}
+(19,1,1) = {"
+Gi
+zN
+zN
+zN
+ch
+ch
+Gi
+QC
+yE
+Ww
+ny
+QC
+Gi
+ch
+ch
+zN
+zN
+zN
+Gi
+"}
+(20,1,1) = {"
+zN
+DP
+DP
+ch
+DP
+DP
+ch
+QC
+eX
+oS
+Qg
+QC
+ch
+DP
+DP
+ch
+DP
+DP
+zN
+"}
+(21,1,1) = {"
+zN
+Oz
+DP
+ch
+DP
+DP
+ch
+QC
+lx
+oR
+QC
+QC
+ch
+DP
+DP
+ch
+DP
+gM
+zN
+"}
+(22,1,1) = {"
+Gi
+zN
+ch
+zN
+zN
+ch
+zN
+Gi
+nO
+Uy
+QC
+Gi
+zN
+ch
+zN
+zN
+ch
+zN
+Gi
+"}
+(23,1,1) = {"
+Id
+zN
+DP
+DP
+ch
+DP
+DP
+ch
+QC
+Ni
+QC
+ch
+DP
+DP
+ch
+DP
+DP
+zN
+Id
+"}
+(24,1,1) = {"
+Id
+zN
+Oz
+DP
+ch
+DP
+DP
+ch
+GS
+Ni
+Ew
+ch
+DP
+DP
+ch
+DP
+gM
+zN
+Id
+"}
+(25,1,1) = {"
+Id
+Gi
+zN
+ch
+zN
+ch
+zN
+lI
+lI
+HC
+lI
+lI
+zN
+ch
+zN
+ch
+zN
+Gi
+Id
+"}
+(26,1,1) = {"
+Id
+Id
+zN
+DP
+DP
+DP
+zN
+oa
+JM
+Vu
+wM
+ZW
+zN
+DP
+DP
+DP
+zN
+Id
+Id
+"}
+(27,1,1) = {"
+Id
+Id
+zN
+DP
+DP
+DP
+zN
+KO
+Mj
+Qj
+Mn
+KO
+zN
+DP
+DP
+DP
+zN
+Id
+Id
+"}
+(28,1,1) = {"
+Id
+Id
+zN
+DP
+WN
+DP
+zN
+lI
+EP
+EP
+EP
+lI
+zN
+DP
+WN
+DP
+zN
+Id
+Id
+"}
+(29,1,1) = {"
+Id
+Id
+Gi
+zN
+zN
+zN
+Gi
+ik
+Id
+Id
+Id
+Id
+Gi
+zN
+zN
+zN
+Gi
+Id
+Id
+"}
