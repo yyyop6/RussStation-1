@@ -41,6 +41,10 @@ endmap
 map kilostation
 endmap
 
+map dwarffort
+	votable
+endmap
+
 map runtimestation
 endmap
 

@@ -85,13 +85,9 @@
 /area/lavaland/surface
 	name = "Lavaland"
 	icon_state = "explored"
-	always_unpowered = TRUE
-	poweralm = FALSE
-	power_environ = FALSE
-	power_equip = FALSE
-	power_light = FALSE
-	requires_power = TRUE
 	ambientsounds = MINING
+	requires_power = FALSE
+	dynamic_lighting = DYNAMIC_LIGHTING_ENABLED
 
 /area/lavaland/underground
 	name = "Lavaland Caves"
@@ -110,6 +106,7 @@
 	outdoors = TRUE
 
 /area/lavaland/surface/outdoors/unexplored //monsters and ruins spawn here
+	dynamic_lighting = DYNAMIC_LIGHTING_DISABLED
 	icon_state = "unexplored"
 
 /area/lavaland/surface/outdoors/unexplored/danger //megafauna will also spawn here

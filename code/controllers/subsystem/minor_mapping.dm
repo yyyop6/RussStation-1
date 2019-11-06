@@ -25,6 +25,8 @@ SUBSYSTEM_DEF(minor_mapping)
 			M = null
 
 /datum/controller/subsystem/minor_mapping/proc/place_satchels(amount=10)
+	return
+/*
 	var/list/turfs = find_satchel_suitable_turfs()
 
 	while(turfs.len && amount > 0)
@@ -32,7 +34,7 @@ SUBSYSTEM_DEF(minor_mapping)
 		var/obj/item/storage/backpack/satchel/flat/S = new(T)
 		S.hide(intact=TRUE)
 		amount--
-
+ */
 
 /proc/find_exposed_wires()
 	var/list/exposed_wires = list()
